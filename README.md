@@ -3,4 +3,4 @@ Made with Solidity Where User can vote his Candidate,View votes and many other t
 
 Output:
 
-![](Election.PNG)
+![](Election.png)
